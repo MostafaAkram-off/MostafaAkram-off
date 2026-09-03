@@ -1,15 +1,36 @@
-# 💫 About Me:
-I am a passionate Flutter developer. I enjoy building modern, responsive, and user-friendly mobile applications using Flutter and Dart.<br><br>I have experience working with mobile app development, UI implementation, and integrating different features to create smooth user experiences. I am always eager to learn new technologies, improve my development skills, and stay up to date with the latest trends in software development.<br><br>Currently, I am focused on improving my skills in Flutter development, software architecture, and building real-world applications. I enjoy working on projects that challenge my problem-solving skills and help me grow as a developer.<br><br>My goal is to become a professional mobile application developer and contribute to impactful products used by people around the world.<br><br>Skills<br>- Flutter & Dart<br>- Mobile App Development<br>- UI Implementation<br>- Git & GitHub<br>- Problem Solving<br>- Continuous Learning
+<h1 align="center">Hi, I'm Mostafa Akram 👋</h1>
 
+<p align="center">
+  Flutter developer · Computer Science graduate, Fayoum University (2026) · Cairo, Egypt
+</p>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MostafaAkram-off&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MostafaAkram-off&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAkram-off&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mostafaakram-dev">LinkedIn</a> ·
+  <a href="mailto:mostafaakram2004@gmail.com">mostafaakram2004@gmail.com</a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MostafaAkram-off&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build cross-platform mobile apps with Flutter. My focus is on clean, maintainable code: Clean Architecture, Cubit/BLoC, a typed service layer over Dio, and dependency injection with GetIt.
+
+Currently looking for a **junior Flutter developer / internship** role.
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[EduVerse](https://github.com/MostafaAkram-off/EduVerse)** | Graduation project. Full Flutter client for an e-learning platform: courses, PayMob payments, video lessons, QR attendance, assignments, certificates. ~25K lines, Clean Architecture. | Flutter · Cubit/BLoC · Dio · GetIt · go_router · media_kit · mobile_scanner |
+| **[Islami](https://github.com/MostafaAkram-off/islami_app)** | Islamic companion app: Quran with search, hadith deck, Sebha, Quran radio, location-based prayer times with reminders, and azkar. Unit-tested, PR-based workflow. | Flutter · Material 3 · Dio · just_audio · geolocator · flutter_local_notifications |
+
+## 🛠 Tech Stack
+
+**Mobile:** Flutter, Dart, Material Design, responsive UI, dark/light theming
+**Architecture & state:** Clean Architecture, Repository pattern, Use Cases, Cubit/BLoC, GetIt
+**Networking & data:** REST APIs, Dio, JSON parsing, JWT auth, SharedPreferences
+**Device:** Geolocation, scheduled local notifications, audio streaming, QR scanning
+**Other languages:** C++, C, Python, Java
+**Tools:** Git & GitHub (branch-per-feature, PRs), Postman, VS Code, Android Studio
+
+## 📈 Activity
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAkram-off&layout=compact&hide_border=true&theme=default)
